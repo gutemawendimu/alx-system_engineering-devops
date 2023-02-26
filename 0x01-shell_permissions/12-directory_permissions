@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l  751 
+mkdir  -m  751 dir_alx-system_engineering-devops 
